@@ -1,16 +1,24 @@
-### Hi there 👋
+![Header](./header_1.png)
 
-<!--
-**pierokchad/pierokchad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">p i e r o k#7967</h1>
+<p align="center">
+</p>
 
-Here are some ideas to get you started:
+---
+<p align="center">
+  <img src="https://gpvc.arturio.dev/pierokchad" />
+</p>
+<h3 align="center">Current Known Languages:</h3>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=pierokchad&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
+
+![Footer](./footer_1.png)
