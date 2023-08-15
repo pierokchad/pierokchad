@@ -6,7 +6,6 @@
 
 ---
 <p align="center">
-  <img src="https://gpvc.arturio.dev/pierokchad" />
 </p>
 <h3 align="center">Current Known Languages:</h3>
 <p align="center">
