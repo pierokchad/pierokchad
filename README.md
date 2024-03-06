@@ -1,23 +1,17 @@
-![Header](./header_1.png)
+## Hey 👋 It's me pierok
+![](https://komarev.com/ghpvc/?username=pierokchad&color=674fc9)
 
-<h1 align="center">p i e r o k#7967</h1>
-<p align="center">
-</p>
+#### 💻 Skills
+---
+🖥️ I'm programming for almost 3 years. My core languages are Java and [Kotlin](https://kotlinlang.org/). <br>
+🌍 I've worked with [Ktor](https://ktor.io/) for backed and  [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) & [React](https://reactjs.org/) for frontend. <br>
+⛏️ Currently I'm programming plugins to Minecraft using Bukkit. <br>
+
+#### 📫 Links
+---
+✨ [Discord profile](https://discordapp.com/users/337352358461964288)
+⛏️ [pierok.xyz](https://pierok.xyz/)
 
 ---
-<p align="center">
-</p>
-<h3 align="center">Current Known Languages:</h3>
-<p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=pierokchad&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
-</p>
-
-![Footer](./footer_1.png)
+![](https://github-readme-stats.vercel.app/api/?username=pierokchad&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true)
