@@ -9,7 +9,7 @@
 
 #### 📫 Links
 ---
-✨ [Discord profile](https://discordapp.com/users/337352358461964288)
+✨ [Discord profile](https://discordapp.com/users/337352358461964288)<br>
 ⛏️ [pierok.xyz](https://pierok.xyz/)
 
 ---
