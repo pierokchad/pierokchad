@@ -1,3 +1,7 @@
+## hello there 👋
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pierokchad&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+</p>
 
 💼 any freelance work? do reach, [email](mailto:pierok420@gmail.com) or [discord](https://discord.com/users/577571414186393661/) :)\
 💬 ask me about anything, i am happy to help;
