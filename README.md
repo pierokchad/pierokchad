@@ -1,5 +1,5 @@
 
-💼 any freelance work? do reach, [email](mailto:pierok420@gmail.com) :)
+💼 any freelance work? do reach, [email](mailto:pierok420@gmail.com) :)\
 💬 ask me about anything, i am happy to help;
 
 🌸 **languages, frameworks and tools:**  
