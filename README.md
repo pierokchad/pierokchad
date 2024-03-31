@@ -1,9 +1,4 @@
 ## hello there 👋
-<p align="left">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pierokchad&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/pierokchad?color=%23006EFF&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/pierokchad?color=%23006EFF&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
 
 💼 any freelance work? do reach, [email](mailto:pierok420@gmail.com) or [discord](https://discord.com/users/577571414186393661/) :)\
 💬 ask me about anything, i am happy to help;
