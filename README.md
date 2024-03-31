@@ -1,5 +1,5 @@
 ## hello there 👋
-<p align="center">
+<p align="left">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pierokchad&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
 </p>
 
