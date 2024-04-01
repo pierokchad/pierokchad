@@ -5,7 +5,7 @@
 
 🌸 **languages, frameworks and tools:**  
 
-<img height="20" src="https://simpleskill.icons.workers.dev/svg/?i=react,node.js,docker,mongodb,postgresql,awslambda">
+<img height="20" src="https://simpleskill.icons.workers.dev/svg/?i=javascript,typescript,node.js,html5,css3,react,next.js,kotlin,npm,docker,mysql,redis,mongodb">
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
