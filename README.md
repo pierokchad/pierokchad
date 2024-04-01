@@ -5,7 +5,7 @@
 
 🌸 **languages, frameworks and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
