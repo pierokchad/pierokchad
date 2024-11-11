@@ -1,6 +1,6 @@
 ## hello there 👋
 
-💼 any freelance work? dm me on [discord](https://discord.com/users/577571414186393661/)\
+💼 any freelance work? dm me on [discord](https://discord.com/users/577571414186393661/)
 
 🌸 **languages ​i know:**  
 
