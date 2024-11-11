@@ -5,7 +5,7 @@
 
 🌸 **languages ​i know:**  
 
-<img height="20" src="https://skillicons.dev/icons?i=js,ts,html,css,py,php,java&perline=50">
+<img height="20" src="https://skillicons.dev/icons?i=js,ts,html,css,php,py,java&perline=50">
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
