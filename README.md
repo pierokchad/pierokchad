@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs
+Total Time: 14 hrs 6 mins
 
-YAML              6 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   42.81 %
-JavaScript        2 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-HTML              2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Java              1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-CSS               1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+YAML              6 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   44.85 %
+HTML              2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Java              1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+JavaScript        1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+CSS               1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 ```
 
 <!--END_SECTION:waka-->
