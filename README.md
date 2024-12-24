@@ -10,11 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 32 mins
 
-Skript   19 mins         ████████████░░░░░░░░░░░░░   47.52 %
-YAML     15 mins         █████████░░░░░░░░░░░░░░░░   36.25 %
-C#       6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Skript            22 mins         █████████████████░░░░░░░░   67.54 %
+C#                6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+YAML              3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
